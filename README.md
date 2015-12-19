@@ -1,4 +1,7 @@
+![alt tag](https://pbs.twimg.com/profile_images/492814839643787264/lewtdkhX_200x200.png) 
+
 # Spot2fish Gem
+
 
 A Ruby library for the Spot2fish API.
 
