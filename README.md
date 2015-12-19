@@ -99,7 +99,7 @@ Or install it yourself as:
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
-## Project using the Spot2fish API
+## Project's using the Spot2fish API
 
 * [Spot2fish iOS app](https://itunes.apple.com/us/app/spot2fish/id1014977861?mt=8)
 * [Spot2fish in angular](http://www.spot2fish.com/)
