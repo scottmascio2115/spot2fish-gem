@@ -45,7 +45,7 @@ Or install it yourself as:
 
 `Spot2fish.search('Ohio')` will search the Spot2fish API for any spots near the location passed.
 
-`Spot2fish.search_social_media('Columbus, Ohio')` will search the Twitter API as well as the Instagram API for any fishing realated posts within a 60 mile radious of the location passed.
+`Spot2fish.search_social_media('Columbus, Ohio')` will search the Twitter API as well as the Instagram API for any fishing realated posts within a 60 mile radius of the location passed.
 
 > The `search` method may be perferable due to the rate limiting restrictions on both the Twitter API as well as the Instagram API.
 
@@ -98,3 +98,9 @@ Or install it yourself as:
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## Project using the Spot2fish API
+
+* [Spot2fish iOS app](https://itunes.apple.com/us/app/spot2fish/id1014977861?mt=8)
+* [Spot2fish in angular](http://www.spot2fish.com/)
+* Make something cool? [Share it with me.](https://twitter.com/_s_mas)
