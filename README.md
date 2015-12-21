@@ -51,7 +51,7 @@ Or install it yourself as:
 
 ##### Rate Limiting
 
-Globally only 99 requests can be made using the `Spot2fish.search_social_media` method. This was done because of the Instagram and Twitter api rate limiting.
+Globally only 99 requests can be made using the `Spot2fish.search_social_media` method per hour. This was done because of the Instagram and Twitter api rate limiting.
 
 ##### Response
 
