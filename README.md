@@ -49,6 +49,9 @@ Or install it yourself as:
 
 > The `search` method may be perferable due to the rate limiting restrictions on both the Twitter API as well as the Instagram API.
 
+##### Rate Limiting
+
+Globally only 99 requests can be made using the `Spot2fish.search_social_media` method. This was done because of the Instagram and Twitter api rate limiting.
 
 ##### Response
 
